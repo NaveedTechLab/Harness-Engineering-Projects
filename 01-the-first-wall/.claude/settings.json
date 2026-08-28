@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "deny": [
+      "Read(./secrets/**)",
+      "Read(secrets/**)",
+      "Bash(cat*secrets*)",
+      "Bash(*secrets*)",
+      "Bash(cp*secrets*)",
+      "Bash(mv*secrets*)",
+      "Bash(python*secrets*)",
+      "Bash(grep*secrets*)",
+      "Bash(head*secrets*)",
+      "Bash(tail*secrets*)",
+      "Bash(less*secrets*)",
+      "Bash(more*secrets*)",
+      "Bash(base64*secrets*)",
+      "Write(./secrets/**)"
+    ]
+  }
+}
