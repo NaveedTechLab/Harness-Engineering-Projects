@@ -5,3 +5,10 @@
 {"level":"info","message":"Hostname: DESKTOP-ROC5ILE","timestamp":"2026-08-28T23:43:25.414Z"}
 {"level":"info","message":"Username: FairCom","timestamp":"2026-08-28T23:43:25.418Z"}
 {"level":"info","message":"MCP Shell Server ready","timestamp":"2026-08-28T23:43:25.436Z"}
+{"level":"info","message":"MCP Shell Server started","timestamp":"2026-08-29T01:39:17.067Z"}
+{"level":"info","message":"Shell: C:\\Program Files\\Git\\bin\\bash.exe","timestamp":"2026-08-29T01:39:17.069Z"}
+{"level":"info","message":"Working Directory: C:\\Users\\FairCom","timestamp":"2026-08-29T01:39:17.069Z"}
+{"level":"info","message":"Platform: win32","timestamp":"2026-08-29T01:39:17.069Z"}
+{"level":"info","message":"Hostname: DESKTOP-ROC5ILE","timestamp":"2026-08-29T01:39:17.075Z"}
+{"level":"info","message":"Username: FairCom","timestamp":"2026-08-29T01:39:17.077Z"}
+{"level":"info","message":"MCP Shell Server ready","timestamp":"2026-08-29T01:39:17.084Z"}
